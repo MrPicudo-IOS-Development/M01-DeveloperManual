@@ -3,16 +3,10 @@
 import UIKit
 
 class Menu: UIViewController {
-
-    
-    
     
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-
-    
-    
 
 }
 
